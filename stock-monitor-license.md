@@ -2,7 +2,7 @@
 
 This plugin is proprietary software.
 
-Copyright © 2025 Your Name.
+Copyright © 2025 Tan mujin.
 All rights reserved.
 
 Permission is granted to install and use this plugin in binary form.
